@@ -1,0 +1,13 @@
+.chart {
+   width: 540px;
+    margin-top: 30px;
+  padding: 0.5rem;
+  border-radius: 12px;
+  background-color: aquamarine;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 9rem;
+
+}
